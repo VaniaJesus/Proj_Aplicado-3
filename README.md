@@ -1,6 +1,6 @@
 # Proj_Aplicado-3
 
-Projeto de um sistema de recomendação desenvolvido pelo grupo 3.3 para a matéria do curso de Ciência de Dados - Mackenzie 
+Projeto de um sistema de recomendação desenvolvido pelo grupo 3.3 para o curso de Ciência de Dados - Mackenzie 
 
 Etapa 1 - Documento contendo Capa, Sumário (parcial) e Introdução. Demais seções apenas os títulos. 
 Data final - 07/03
